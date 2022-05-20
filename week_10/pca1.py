@@ -37,6 +37,6 @@ plt.ylabel("p2")
 plt.show()
 #Boyut azaltımına yönelik en yaygın yaklaşım, temel bileşenler analizi veya PCA olarak adlandırılır.
 #Orijinal verilerin özünü korurken, m sütunlu (özelliklerli) verilerin m veya daha az sütunlu bir alt uzaya yansıtıldığı bir
-# projeksiyon yöntemi olarak düşünülebilir .
+# projeksiyon yöntemi olarak  düşünülebilir .
 #kaynak bununla alakalı
-#https://towardsdatascience.com/dealing-with-highly-dimensional-data-using-principal-component-analysis-pca-fea1ca817fe6
+#https://towardsdatascience.com/dealing-with-hgit ghly-dimensional-data-using-principal-component-analysis-pca-fea1ca817fe6
