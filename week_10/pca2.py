@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 #%matplotlib inline
 #Principle Component Analysis (PCA) for Data Visualization
 url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
-
+#pca1 deki örnek ile farkı Standardize the Data yapılmasıdır
 # loading dataset into Pandas DataFrame
 df = pd.read_csv(url
                  , names=['sepal length','sepal width','petal length','petal width','target'])
